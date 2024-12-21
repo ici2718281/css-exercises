@@ -1,0 +1,14 @@
+.whatever,
+.whatnever {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.whatever {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.whatnever {
+    background-color: #ffff00;
+}
